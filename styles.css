@@ -4,7 +4,9 @@ body {
     color: #333;
 }
 
-: #fff;
+header {
+   ;
+    color: #fff;
     padding: 1em 0;
     text-align: center;
 }
@@ -12,6 +14,7 @@ body {
 nav ul {
     list-style: none;
     padding: 0;
+    text-align: center;
 }
 
 nav ul li {
