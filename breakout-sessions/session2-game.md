@@ -23,7 +23,8 @@ Your challenge is to create a basic number guessing game that:
 ## 3. Create the Game File
 
 - In the Codespaces file explorer, right-click and select **New File**.
-- Name the file `mygame.py`.
+- Name the file `mygame.py` in /portfolio.
+- When asked to install python extension say yes!
 
 ---
 
@@ -38,10 +39,10 @@ Your challenge is to create a basic number guessing game that:
 ## 5. Run the Game
 
 - Open the terminal in Codespaces (if it's not already open, go to **View > Terminal**).
-- Ensure you're in the directory where `mygame.py` is located (use `ls` to list files).
+- Ensure you're in the directory where `mygame.py` is located (use `ls` to list files, `cd portfolio` should do the trick).
 - Run your game by typing:
   ```bash
-  python mygame.py ```
+  python mygame.py
 - Press **Enter** to execute the code
 
 ## 6. Debug and Improve
@@ -53,7 +54,7 @@ Your challenge is to create a basic number guessing game that:
 - **Re-run the Game:**  
   Execute the command again to test your corrections:
   ```bash
-  python mygame.py ```
+  python mygame.py
 - **Enhance Your Game:**  
 Consider adding extra features such as:
 - Counting and displaying the number of guesses.
