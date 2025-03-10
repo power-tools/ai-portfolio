@@ -41,6 +41,18 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.video-container {
+    text-align: center;
+    margin-top: 1em;
+}
+
+iframe {
+    width: 100%;
+    max-width: 560px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 .project-card {
     background-color: #fff;
     padding: 1em;
