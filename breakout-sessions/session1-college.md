@@ -5,7 +5,7 @@
 **Starter Prompt:**  
 "Help me apply for colleges"
 
-Use the [iterative prompt improver](/workspaces/ai-portfolio/references/iterative-prompt-improver.md) method:
+Use the [iterative prompt improver](/references/iterative-prompt-improver.md) method:
 - Revise the prompt for clarity.
 - Add suggestions on including specific examples.
 - Ask yourself questions to further refine it.
