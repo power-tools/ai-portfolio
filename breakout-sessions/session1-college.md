@@ -3,9 +3,10 @@
 **Challenge:** Create a prompt to help you with college applications.
 
 **Starter Prompt:**  
-"Help me apply for colleges by highlighting my strengths in STEM and extracurricular activities."
+"Help me apply for colleges"
 
-Use the iterative prompt improver method:
+Use the [iterative prompt improver](/workspaces/ai-portfolio/references/iterative-prompt-improver.md) method:
 - Revise the prompt for clarity.
 - Add suggestions on including specific examples.
 - Ask yourself questions to further refine it.
+- Compare the answer to "Help me apply for colleges" to your new and improved prompt.
