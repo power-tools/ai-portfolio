@@ -37,7 +37,7 @@ Welcome to your AI Prompt Engineering Portfolio! This repository is designed for
 ### 3. Committing and Pushing Your Changes
 
 1. **Make Your Edits:**
-   - Edit files directly in the Codespaces editor. For instance, update your prompt in `your-portfolio/my-first-prompt.md` or write your reflections in `your-portfolio/reflections.md`.
+   - Edit files directly in the Codespaces editor. For instance, update your code in `mygame.py`
 
 2. **Commit Your Changes:**
    - Click the **Source Control** icon (which looks like a branch) in the sidebar.
